@@ -1,0 +1,1 @@
+<?php header("Refresh: 5;URL=home"); ?>
